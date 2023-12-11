@@ -41,9 +41,9 @@ First download from [Google Drive](https://drive.google.com/drive/folders/18i8ey
 
 This part using the Python + webasm/js/css/html and can be used instantly (does not need any C++ compilation).
 
-![omni3d](/asset/visualization_omni3d.mov)
+![omni3d](https://github.com/fusheng-ji/miniproject/blob/main/asset/visualization_omni3d.mov)
 
-![3d_future](/asset/visualization_3d_future.mov)
+![3d_future](https://github.com/fusheng-ji/miniproject/blob/main/asset/visualization_3d_future.mov)
 
 ```
 pip install requirement.txt
