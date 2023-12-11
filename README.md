@@ -38,12 +38,11 @@ First download from [Google Drive](https://drive.google.com/drive/folders/18i8ey
 ## Visualization
 
 ### Task: Visualize the multi-view camera viewpoints
-
 This part using the Python + webasm/js/css/html and can be used instantly (does not need any C++ compilation).
+![visualization_omni3d](https://github.com/fusheng-ji/miniproject/blob/main/asset/visualization_omni3d.mov)
 
-<video src="./asset/visualization_omni3d.mov"/>
+![visualization_3d_future](https://github.com/fusheng-ji/miniproject/blob/main/asset/visualization_3d_future.mov)
 
-<video src="./asset/visualization_3d_future.mov"/>
 
 ```
 pip install requirement.txt
@@ -56,16 +55,14 @@ open your browser with localhost:8888
 ### Task: Draw the epipolar line between two views
 
 Using SIFT to find Keypoint, experiment on the book_002/008.png and book_002/010.png from dataset/OmniObject3D.
-
-![epipolar_line](./asset/epipolar_line.PNG)
+<img src="https://github.com/fusheng-ji/miniproject/blob/main/asset/epipolar_line.png" align="center">
 
 ```
 python epipolar_draw.py
 ```
 
 ### Task: Do the stereo rectification for two views
-
-![stereo_rectification](./asset/stereo_rectification.PNG)
+<img src="https://github.com/fusheng-ji/miniproject/blob/main/asset/stereo_rectification.png" align="center">
 
 ```
 python stereo_rectification.py
