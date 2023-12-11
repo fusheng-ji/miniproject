@@ -41,9 +41,9 @@ First download from [Google Drive](https://drive.google.com/drive/folders/18i8ey
 
 This part using the Python + webasm/js/css/html and can be used instantly (does not need any C++ compilation).
 
-![omni3d](./asset/visualization_omni3d.mov)
+![omni3d](/asset/visualization_omni3d.mov)
 
-![3d_future](./asset/visualization_3d_future.mov)
+![3d_future](/asset/visualization_3d_future.mov)
 
 ```
 pip install requirement.txt
@@ -57,7 +57,7 @@ open your browser with localhost:8888
 
 Using SIFT to find Keypoint, experiment on the book_002/008.png and book_002/010.png from dataset/OmniObject3D.
 
-![epipolar_line](./asset/epipolar_line.PNG)
+![epipolar_line](/asset/epipolar_line.PNG)
 
 ```
 python epipolar_draw.py
@@ -65,7 +65,7 @@ python epipolar_draw.py
 
 ### Task: Do the stereo rectification for two views
 
-![stereo_rectification](./asset/stereo_rectification.PNG)
+![stereo_rectification](/asset/stereo_rectification.PNG)
 
 ```
 python stereo_rectification.py
