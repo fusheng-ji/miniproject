@@ -55,14 +55,14 @@ open your browser with localhost:8888
 ### Task: Draw the epipolar line between two views
 
 Using SIFT to find Keypoint, experiment on the book_002/008.png and book_002/010.png from dataset/OmniObject3D.
-<img src="https://github.com/fusheng-ji/miniproject/blob/main/asset/epipolar_line.PNG" align="center">
+<img src="https://github.com/fusheng-ji/miniproject/blob/main/asset/epipolar_line.png" align="center">
 
 ```
 python epipolar_draw.py
 ```
 
 ### Task: Do the stereo rectification for two views
-<img src="https://github.com/fusheng-ji/miniproject/blob/main/asset/stereo_rectification.PNG" align="center">
+<img src="https://github.com/fusheng-ji/miniproject/blob/main/asset/stereo_rectification.png" align="center">
 
 ```
 python stereo_rectification.py
