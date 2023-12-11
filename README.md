@@ -39,9 +39,9 @@ First download from [Google Drive](https://drive.google.com/drive/folders/18i8ey
 
 ### Task: Visualize the multi-view camera viewpoints
 This part using the Python + webasm/js/css/html and can be used instantly (does not need any C++ compilation).
-![visualization_omni3d](https://github.com/fusheng-ji/miniproject/blob/main/asset/visualization_omni3d.mov)
+<video src="https://github.com/fusheng-ji/miniproject/blob/main/asset/visualization_omni3d.mp4">
 
-![visualization_3d_future](https://github.com/fusheng-ji/miniproject/blob/main/asset/visualization_3d_future.mov)
+<video src="https://github.com/fusheng-ji/miniproject/blob/main/asset/visualization_3d_future.mp4">
 
 
 ```
